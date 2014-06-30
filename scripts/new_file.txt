@@ -1,0 +1,2 @@
+wc -l add_todays_date.sh
+      6 add_todays_date.sh
